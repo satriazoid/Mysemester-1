@@ -1,0 +1,25 @@
+*.vscode/
+*.txt
+*pdf
+*docx
+*pptx
+*rar
+*exe
+*zip
+*ico
+*webp
+*jpg
+
+
+Mk-Algoritma-pemograman/Flowcart/
+Mk-Algoritma-pemograman/ss_penting/
+Mk-Algoritma-pemograman/Tugas semester 1/
+
+# Matakuliah Non Coding
+Mk-Basic-Inggris/
+Mk-Fisika-Dasar/
+Mk-Kalkulus-1/
+Mk-Logika-Informatika/
+Mk-Pendidikan-agama-islam/
+Mk-Teknologi-Informasi/
+Tugas kuliah/
